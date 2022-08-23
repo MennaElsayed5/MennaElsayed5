@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **other iOS developers**
 
-- 👨‍💻 All of my projects are available at [github]((https://github.com/MennaElsayed5))
+- 👨‍💻 All of my projects are available at [github](https://github.com/MennaElsayed5)
 
 - 💬 Ask me about **iOS, Swift, Objective-C**
 
 - 📫 How to reach me **mennaaaaelsayed@gmail.com**
 
-- 📄 Know about my experiences [resume]((https://drive.google.com/drive/folders/1Lsd-t_C_8qGGzXh5IEY54V1Chm98Snay?usp=sharing))
+- 📄 Know about my experiences [resume](https://drive.google.com/drive/folders/1Lsd-t_C_8qGGzXh5IEY54V1Chm98Snay?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
