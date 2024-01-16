@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mennaelsayed5&label=Profile%20views&color=0e75b6&style=flat" alt="mennaelsayed5" /> </p>
 
-- 🔭 I’m currently **Graduate from ITI and looking for native iOS vacancy**
+- 🔭 I’m iOS Developer on EXAS**
 
 - 🌱 I’m currently learning **Swift-UI, Clean code architect**
 
